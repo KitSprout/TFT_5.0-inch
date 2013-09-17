@@ -2,7 +2,7 @@
 ========
 * File Name   : Readme.md
 * Author      : Hom19910422
-* Version     : v1.1
+* Version     : v1.0
 * Update      : 2013/09/17
 * Description : TFT_5-inch Information
 * Wiki        : https://github.com/Hom19910422/TFT_5-inch/wiki

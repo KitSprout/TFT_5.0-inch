@@ -1,20 +1,22 @@
-﻿IMU_10-DOF
+TFT_5-inch
 ========
 * File Name   : Readme.md
 * Author      : Hom19910422
 * Version     : v1.0
-* Update      : 2013/09/17
+* Update      : 2013/09/18
 * Description : TFT_5-inch Information
 * Wiki        : https://github.com/Hom19910422/TFT_5-inch/wiki
 
 Design
 ========
-* 使用 RA8875 + W25Q128FV + GT30L24T3Y
+* Controller : RA8875
+* Flash      : W25Q128FV (128M Bit)
+* Font       : GT30L24T3Y
 
 Hardware
 ========
 * Use Altium Designer 13
-* PCB Size : 130.81 * 76.2mm
+* PCB Size : 130.81 * 76.2mm  
   
   
 <br>  

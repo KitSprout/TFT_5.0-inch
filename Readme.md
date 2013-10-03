@@ -3,7 +3,7 @@ TFT_5-inch
 * File Name   : Readme.md
 * Author      : Hom19910422
 * Version     : v1.1
-* Update      : 2013/09/29
+* Update      : 2013/10/03
 * Description : TFT_5-inch Information
 * Wiki        : https://github.com/Hom19910422/TFT_5-inch/wiki
 
@@ -16,7 +16,7 @@ Design
 Hardware
 ========
 * Use Altium Designer 13
-* PCB Size : 130.81 * 76.2mm  
+* PCB Size : 130.81 * 78.74mm  
   
   
 <br>  

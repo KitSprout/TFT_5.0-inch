@@ -2,7 +2,7 @@ TFT_Module
 ========
 * File Name   : Readme.md
 * Author      : Hom19910422
-* Update      : 2013/11/14
+* Update      : 2013/11/16
 
 
 TFT_5-inch
@@ -18,8 +18,9 @@ TFT_3.5-inch
 ========
 * Controller : R61581
 * Resolution : 480*320
-* Flash      : W25Q128FV (128M Bit)
-* PCB Size   : ???mm  
+* Touch      : AD7873
+* Font       : GT30L24T3Y
+* PCB Size   : 95.5 * 55mm  
 
 
 TFT_2.2-inch
@@ -27,7 +28,7 @@ TFT_2.2-inch
 * Controller : ILI9341
 * Resolution : 320*240
 * Flash      : W25Q128FV (128M Bit)
-* PCB Size   : ???mm  
+* PCB Size   : 67.8 * 40.3mm  
   
   
 <br>  

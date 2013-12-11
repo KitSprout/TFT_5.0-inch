@@ -1,7 +1,7 @@
 TFT_Module
 ========
 * Author      : [Hom](https://github.com/Hom19910422)
-* Update      : 2013/11/22
+* Update      : 2013/12/11
 
 
 TFT_5-inch
@@ -18,16 +18,18 @@ TFT_3.5-inch
 ------
 * Controller : R61581
 * Resolution : 480*320
-* Version    : v0.0
-* PCB Size   : 95.5 * 55mm  
+* Version    : v1.0
+* PCB Size   : 95.5 * 55mm
+* PCB Lib    : AD PcbLib v0.1  
 
 
 TFT_2.2-inch
 ------
 * Controller : ILI9341
 * Resolution : 320*240
-* Version    : v0.0
-* PCB Size   : 67.8 * 40.3mm  
+* Version    : v1.0
+* PCB Size   : 67.8 * 40.3mm
+* PCB Lib    : AD PcbLib v0.1  
   
   
 <br>  

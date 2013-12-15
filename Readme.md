@@ -6,13 +6,14 @@
 
 Description
 ========
-TFT_5-inch 是一個 5 吋的 TFT LCD 模組，透過 8080/6800 介面傳輸資料，上面另外帶有 SD 卡座和 FLASH、FONT 的 IC。
+TFT_5-inch 是一個 5 吋的 TFT LCD 模組，透過 8080/6800 介面傳輸資料，  
+模組上另外帶有 SD 卡座和 FLASH、FONT 的 IC。
 
 Hardware
 ========
-* 控制器 : RA8875
+* 控制器 : [RA8875](http://www.raio.com.tw/e%20version/e_product.8875.htm)
 * 解析度 : 800*480
-* 其他外接 : SD ( SDIO )、W25Q128FV ( SPI )、GT30L24T3Y ( SPI )
+* 其他外接 : SD ( SDIO )、[W25Q128FV](http://www.nexflash.com/hq/enu/ProductAndSales/ProductLines/FlashMemory/SerialFlash/W25Q128FV.htm) ( SPI )、[GT30L24T3Y](http://www.genitop.com/Products/indexlist_GT30L24T3Y.html) ( SPI )
 * PCB 尺寸 : 130.81 * 78.74mm
 * 設計軟體 [Altium Designer 13](http://www.altium.com/en/products/altium-designer) ( [PcbLib](https://github.com/CYACAcademic/AltiumDesigner_PcbLibrary) use AD PcbLib v0.1 )
 
